@@ -5,7 +5,7 @@
 *	NOTE: Go program without goroutines and channels is crap. I know... THIS was just for fun! ;)
  */
 
-package hn
+package search
 
 import (
 	"encoding/json" // need to decode json object
